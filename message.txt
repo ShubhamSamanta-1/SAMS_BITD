@@ -1,0 +1,5 @@
+Greetings from SAMS,
+
+This text is from automated messaging system.
+Attendance for the day has been marked and CSV is being sent.
+Thank You
